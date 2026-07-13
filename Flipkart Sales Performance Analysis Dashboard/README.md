@@ -56,7 +56,7 @@ The objective of this project is to help businesses monitor sales performance, i
 ## 📷 Dashboard Preview
 
 ![FLIPKART SALES PERFORMANCE Dashboard]
-(Flipkart%20Sales%20Performance%20Analysis%20Dashboard%20Image.png)
+(Image/Flipkart%20Sales%20Performance%20Analysis%20Dashboard%20Image.png)
 
 ---
 

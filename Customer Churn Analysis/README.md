@@ -109,12 +109,13 @@ This project demonstrates the complete data analysis workflow, including data pr
 ```
 Customer-Churn-Analysis/
 │
+├── images
 ├── Churn_Analysis.ipynb
+├── README.md
 ├── customer_churn
 ├── customer_churn_data_raw.xlsx
 ├── exported_churn_data.xlsx
-├── images/
-└── README.md
+└── test_database.sqlite
 ```
 
 ---
